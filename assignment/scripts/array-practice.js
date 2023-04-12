@@ -46,6 +46,8 @@ console.log('Last animal in the array is', animalArray[3]);
 let lastElement = animalArray[animalArray.length - 1];
 
 console.log(lastElement);
+// Tried a different way that I searched up online but this one below here is a lot easier, like how it was shown in the Arrays Conceptual video.
+console.log(animalArray[3]);
 
 // 4. Adding & Removing Array Items
 console.log('--- 4. Adding and removing array items ---');
